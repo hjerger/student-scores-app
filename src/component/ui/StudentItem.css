@@ -1,0 +1,27 @@
+.studentItem {
+    display: flex;
+}
+
+.inputPanel {
+    display: flex;
+    flex-direction: row;
+}
+
+.textField {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.deleteButton {
+    align-self: center;
+    padding-left: 20px;
+}
+
+.MuiButton-containedSizeSmall {
+    height: 30px;
+    align-self: center;
+}
+
+.MuiFormControl-root {
+    margin-right: 20px;
+}

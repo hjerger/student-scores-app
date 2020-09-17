@@ -1,0 +1,13 @@
+.listPanel {
+    display: flex;
+    padding: 10px;
+}
+
+.studentList {
+    padding-top: 10px;
+}
+
+.addButton {
+    align-self: flex-end;
+    padding-right: 50px;
+}
